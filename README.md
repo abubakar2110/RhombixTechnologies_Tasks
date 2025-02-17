@@ -1,0 +1,3 @@
+->Install the required Librares
+->it works by storing the id of the listened songs and than recommend you the new song.
+->run the song_hub file on the terminal by writting "streamlit run song_hub.py"
